@@ -2,7 +2,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Aastha&#x27;s Website - blog</title>
-      <link>https://aasthaphogat.github.io/</link>
+      <link>https://aasthaphogat.github.io</link>
       <description>My personal Website</description>
       <generator>Zola</generator>
       <language>en</language>
