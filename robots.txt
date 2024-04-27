@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://aasthaphogat.github.io//sitemap.xml

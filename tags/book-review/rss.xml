@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Aastha&#x27;s Website - book-review</title>
+      <link>https://aasthaphogat.github.io/</link>
+      <description>My personal Website</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://aasthaphogat.github.io/tags/book-review/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Educated - Memoir review</title>
+          <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://aasthaphogat.github.io/posts/theducated/</link>
+          <guid>https://aasthaphogat.github.io/posts/theducated/</guid>
+          <description xml:base="https://aasthaphogat.github.io/posts/theducated/">&lt;p&gt;The memoir Educated elaborates thorough character development of the author Tara Westover. From being born in an orthodox family in Idaho to embarking on the journey of transformation, cultivating flexibility and openness to new ideas and healing from trauma and complxes.this book is a testament of self exploration.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

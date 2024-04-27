@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Aastha&#x27;s Website - random</title>
+      <link>https://aasthaphogat.github.io/</link>
+      <description>My personal Website</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://aasthaphogat.github.io/tags/random/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 09 Apr 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Firstblog</title>
+          <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://aasthaphogat.github.io/posts/firstblog/</link>
+          <guid>https://aasthaphogat.github.io/posts/firstblog/</guid>
+          <description xml:base="https://aasthaphogat.github.io/posts/firstblog/">&lt;p&gt;Hello Friends, this is my first blog :)&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
